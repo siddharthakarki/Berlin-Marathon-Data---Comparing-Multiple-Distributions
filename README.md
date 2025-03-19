@@ -87,10 +87,9 @@ This project analyzes the **Berlin Marathon** data, focusing on **women runners*
 
 ## 💡 **Contributors**  
 
-👤 **[Your Name]**  
-📧 [Your Email]  
-🌐 [Your LinkedIn or GitHub]  
-
+👤 **Siddhartha Karki**  
+📧 Sidkarki999@gmail.com 
+🌐 www.linkedin.com/in/siddhartha-karki
 📌 **Support & Contributions**  
 ⭐ **If you found this project useful, give it a star!**  
 💬 **Feedback and contributions are welcome!** 🎯  
